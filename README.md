@@ -1,2 +1,4 @@
 # JATIN-DEMO
 THE FIRST GIT REPOSITORY
+Author - Jatin Gera
+
